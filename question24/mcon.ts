@@ -1,6 +1,7 @@
 let city:string = "lahore";
 console.log(city.length == 4?"i predict":"i predict");
 console.log(city.length == 4);
+console.log(city == "lahore"? "i predict":"i predict");
 
 let country:string = "pakistan";
 console.log(country.length == 7?"i predict":"i predict");
